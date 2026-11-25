@@ -1,4 +1,4 @@
-# Intelligent Financial Fraud Detection System
+# Financial Fraud Detection System
 
 An end-to-end academic portfolio prototype for scoring credit card transactions as likely legitimate or potentially fraudulent. It demonstrates data validation, exploratory analysis, leakage-aware preprocessing, imbalanced classification, threshold tuning, evaluation, explainability artifacts, a FastAPI API, and a React dashboard.
 
